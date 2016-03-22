@@ -1,0 +1,18 @@
+package com.gamenmetdaan.item;
+
+public class ObsidianStick {
+
+	public static void mainRegistry(){
+		initializeItem();
+		registerItem();
+		
+	}
+	
+	public static void initializeItem(){
+		
+	}
+	
+	public static void registerItem(){
+		
+	}
+}

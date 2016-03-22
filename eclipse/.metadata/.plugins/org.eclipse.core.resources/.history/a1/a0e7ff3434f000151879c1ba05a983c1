@@ -1,0 +1,6 @@
+package com.gamenmetdaan.main;
+
+@Mod(modid = , name = , version = ,)
+public class MainRegistry {
+
+}

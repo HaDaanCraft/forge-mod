@@ -1,0 +1,21 @@
+package com.gamenmetdaan.blocks;
+
+import cpw.mods.fml.common.registry.GameRegistry;
+import net.minecraft.creativetab.CreativeTabs;
+
+public class CompressedStone {
+
+	public static void mainRegistry(){
+		initializeBlock();
+		registerItem();
+		
+	}
+	
+	
+	public static void initializeBlock(){
+		
+	}
+	
+	public static void registerItem(){
+	}
+}
