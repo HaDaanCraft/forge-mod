@@ -1,8 +1,9 @@
 package com.gamenmetdaan.main;
 
-import com.gamenmetdaan.blocks.CompressedStone;
-import com.gamenmetdaan.item.ObsidianStick;
+import com.gamenmetdaan.blocks.MBlocks;
+import com.gamenmetdaan.item.MItems;
 import com.gamenmetdaan.lib.RefStrings;
+import com.gamenmetdaan.world.MWorld;
 
 import cpw.mods.fml.common.Mod;
 import cpw.mods.fml.common.Mod.EventHandler;
@@ -19,8 +20,10 @@ public class MainRegistry {
 	
 	@EventHandler
 	public static void PreLoad(FMLPreInitializationEvent PreEvent){
-		ObsidianStick.mainRegistry();
-		CompressedStone.mainRegistry();
+		MItems.mainRegistry();
+		MBlocks.mainRegistry();
+		MWorld.mainRegistry();
+		CraftingManager.mainRegistry();
 		proxy.registerRenderInfo();
 	}
 	@EventHandler
