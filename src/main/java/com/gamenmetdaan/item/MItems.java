@@ -1,5 +1,6 @@
 package com.gamenmetdaan.item;
 
+import com.gamenmetdaan.creativetabs.MCreativeTabs;
 import com.gamenmetdaan.lib.RefStrings;
 
 import cpw.mods.fml.common.registry.GameRegistry;
@@ -17,7 +18,7 @@ public class MItems {
 	public static Item oStick;
 	
 	public static void initializeItem(){
-		oStick = new Item().setUnlocalizedName("oStick").setCreativeTab(CreativeTabs.tabMisc).setTextureName(RefStrings.MODID + ":OStick");
+		oStick = new Item().setUnlocalizedName("oStick").setCreativeTab(MCreativeTabs.tabItems).setTextureName(RefStrings.MODID + ":OStick");
 		
 	}
 	

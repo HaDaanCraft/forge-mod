@@ -1,2 +1,6 @@
 item.oStick.name=Obsidian Stick
 tile.ComStone.name=Compressed Stone
+
+itemGroup.BlockTab=GamenMetDaan Blocks
+itemGroup.ItemTab=GamenMetDaan Items
+itemGroup.ToolTab=GamenMetDaan Tools

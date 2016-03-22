@@ -1,5 +1,6 @@
 package com.gamenmetdaan.blocks;
 
+import com.gamenmetdaan.creativetabs.MCreativeTabs;
 import com.gamenmetdaan.lib.RefStrings;
 
 import cpw.mods.fml.common.registry.GameRegistry;
@@ -18,7 +19,7 @@ public class MBlocks {
 	public static Block ComStone;
 	
 	public static void initializeBlock(){
-		ComStone = new ComStone(Material.ground).setBlockName("ComStone").setCreativeTab(CreativeTabs.tabBlock).setBlockTextureName(RefStrings.MODID + ":ComStone");
+		ComStone = new ComStone(Material.ground).setBlockName("ComStone").setCreativeTab(MCreativeTabs.tabBlock).setBlockTextureName(RefStrings.MODID + ":ComStone");
 	}
 	
 	public static void registerItem(){
