@@ -1,36 +1,22 @@
-[15:43:49] [main/INFO]: Setting user: Player213
-[15:43:52] [Client thread/INFO]: LWJGL Version: 2.9.1
-[15:44:12] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Gamen Met Daan
-[15:44:14] [Sound Library Loader/INFO]: Sound engine started
-[15:44:16] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
-[15:44:16] [Client thread/INFO]: Created: 16x16 textures/items-atlas
-[15:44:16] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Gamen Met Daan
-[15:44:17] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
-[15:44:17] [Client thread/INFO]: Created: 256x256 textures/items-atlas
-[15:44:18] [Sound Library Loader/INFO]: Sound engine started
-[15:44:23] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
-[15:44:23] [Server thread/INFO]: Generating keypair
-[15:44:24] [Server thread/INFO]: Preparing start region for level 0
-[15:44:25] [Server thread/INFO]: Preparing spawn area: 21%
-[15:44:26] [Server thread/INFO]: Changing view distance to 12, from 10
-[15:44:27] [Server thread/INFO]: Player213[local:E:c06159db] logged in with entity id 536 at (-238.056314717223, 71.15473176351254, 289.8990374040435)
-[15:44:27] [Server thread/INFO]: Player213 joined the game
-[15:44:30] [Server thread/INFO]: Saving and pausing game...
-[15:44:30] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/Overworld
-[15:44:30] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/Nether
-[15:44:30] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/The End
-[15:44:33] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2035ms behind, skipping 40 tick(s)
-[15:44:35] [Server thread/INFO]: Player213 has just earned the achievement [Taking Inventory]
-[15:44:35] [Client thread/INFO]: [CHAT] Player213 has just earned the achievement [Taking Inventory]
-[15:44:38] [Client thread/INFO]: Warning: Clientside chunk ticking took 382 ms
-[15:44:45] [Server thread/INFO]: Saving and pausing game...
-[15:44:45] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/Overworld
-[15:44:45] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/Nether
-[15:44:45] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/The End
-[15:44:48] [Server thread/INFO]: Stopping server
-[15:44:48] [Server thread/INFO]: Saving players
-[15:44:48] [Server thread/INFO]: Saving worlds
-[15:44:48] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/Overworld
-[15:44:48] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/Nether
-[15:44:48] [Server thread/INFO]: Saving chunks for level 'Bèta mod testing'/The End
-[15:44:51] [Client thread/INFO]: Stopping!
+[19:53:52] [main/INFO]: Setting user: Player124
+[19:53:55] [Client thread/INFO]: LWJGL Version: 2.9.1
+[19:54:15] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Gamen Met Daan
+[19:54:18] [Sound Library Loader/INFO]: Sound engine started
+[19:54:19] [Client thread/INFO]: Created: 16x16 textures/blocks-atlas
+[19:54:19] [Client thread/INFO]: Created: 16x16 textures/items-atlas
+[19:54:20] [Client thread/INFO]: Reloading ResourceManager: Default, FMLFileResourcePack:Forge Mod Loader, FMLFileResourcePack:Minecraft Forge, FMLFileResourcePack:Gamen Met Daan
+[19:54:21] [Client thread/INFO]: Created: 512x256 textures/blocks-atlas
+[19:54:21] [Client thread/INFO]: Created: 256x256 textures/items-atlas
+[19:54:22] [Sound Library Loader/INFO]: Sound engine started
+[19:54:33] [Server thread/INFO]: Starting integrated minecraft server version 1.7.10
+[19:54:33] [Server thread/INFO]: Generating keypair
+[19:54:33] [Server thread/INFO]: Preparing start region for level 0
+[19:54:34] [Server thread/INFO]: Preparing spawn area: 20%
+[19:54:36] [Server thread/INFO]: Changing view distance to 12, from 10
+[19:54:37] [Server thread/INFO]: Player124[local:E:feed07c2] logged in with entity id 773 at (-260.5, 70.0, 239.5)
+[19:54:37] [Server thread/INFO]: Player124 joined the game
+[19:54:39] [Server thread/WARN]: Can't keep up! Did the system time change, or is the server overloaded? Running 2506ms behind, skipping 50 tick(s)
+[19:54:44] [Server thread/INFO]: Player124 has just earned the achievement [Taking Inventory]
+[19:54:44] [Client thread/INFO]: [CHAT] Player124 has just earned the achievement [Taking Inventory]
+[19:54:53] [Client thread/INFO]: Warning: Clientside chunk ticking took 444 ms
+[19:54:56] [Client thread/INFO]: Stopping!
